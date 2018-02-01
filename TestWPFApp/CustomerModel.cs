@@ -8,5 +8,6 @@ namespace TestWPFApp
 {
     public class CustomerModel
     {
+
     }
 }
